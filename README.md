@@ -1,7 +1,9 @@
 ### ACTIVOS POR AREA
 
-This project was developed to register and manage assets by their corresponding area. It allows users to store detailed asset information, including name, description, properties, and an associated image captured from camera, clipboard, or local file.
-The system organizes assets by area to improve management and accessibility.
+<p align="center">
+    This project was developed to register and manage assets by their corresponding area. It allows users to store detailed asset information, including name, description, properties, and an associated image captured from camera, clipboard, or local file.
+    The system organizes assets by area to improve management and accessibility.
+</p>
 
 ### TECHNOLOGIES USED
 - Python.
